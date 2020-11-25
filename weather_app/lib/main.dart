@@ -12,8 +12,6 @@ class WeatherApp extends StatefulWidget {
 class _WeatherAppState extends State<WeatherApp> {
   int temperature = 0;
   String location = 'San Fransisco';
-  int woeid = 44418;
-  String weather = 'clear';
 
 
 
