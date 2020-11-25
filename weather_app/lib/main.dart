@@ -14,8 +14,6 @@ class _WeatherAppState extends State<WeatherApp> {
   String location = 'San Fransisco';
 
 
-
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
